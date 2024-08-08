@@ -1,5 +1,10 @@
 public class MyClass {
     public static void main(String[] args){
-        System.out.print("Hello World! Olá turma, sejam bem-vindos.");
+
+        int ano = 2021;
+        ano = 2022;
+        final String BR = "Brasil"; // varíavel final nunca será alterada no código
+        //BR = "Brazil";
+
     }
 }
